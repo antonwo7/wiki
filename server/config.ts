@@ -1,0 +1,1 @@
+export const wikiApiUrl = 'https://en.m.wikipedia.org/w/index.php'

@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body, #root{
+    height: 100%;
+}
+
+ins {
+    background: #a3d3ff;
+    padding: 3px 6px;
+    text-decoration: none;
+}
+
+del {
+    background: #ffe49c;
+    padding: 3px 6px;
+    text-decoration: none;
+}
+
+.revision p {
+    max-width: 100%;
+    overflow: auto;
+}
